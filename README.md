@@ -1,2 +1,2 @@
-# apna-college-
+#college
 my first repository
